@@ -1,4 +1,4 @@
-# su-a-cyder
+## su-a-cyder
 <!-- 
 ________
 /\_\/\\
@@ -22,7 +22,7 @@
          # Spaceship, an Apple development automation paltform (https://fastlane.tools/)
 
 
-     LICENSE:
+##   LICENSE:
      su-A-cyder, Theos (and by extension, Logos) are available under the provisions of the GNU
      General Public License, version 3 (or later), available here: 
      http://www.gnu.org/licenses/gpl-3.0.html.
@@ -35,17 +35,17 @@
      not confer a license to your project.
 
 
-     DISCLAIMER: 
+##   DISCLAIMER: 
      This tool is an education tool for demonstration PoC of iOS Malware, Only!
      
-     INSTALLATION: 
+##   INSTALLATION: 
      1. Install ideviceinstaller from libimobile utilities (e.g. brew install ideviceinstaller)
      2. Install ideviceprovision from libimobile utilities (e.g. brew install ideviceprovision)
      3. git clone the modified fastlane fork from this repository and install it
      4. git clone the modified theos-jailed for from this reposiotory 
      5. create an apple home-brewed account and login to it with x-code (preferences, accounts)
      
-     USAGE:
+ ##   USAGE:
      1. Run the ./theos-jailed/bin/nic.pl and select su-a-cyder as a target
      2. Cd into the directory and modify the tweak as any other Theos tweak.
      3. Connect targeted device to USB
