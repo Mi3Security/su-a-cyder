@@ -1,0 +1,6 @@
+[submodule "fastlane"]
+	path = fastlane
+	url = https://github.com/chilik/fastlane
+[submodule "theos-jailed"]
+	path = theos-jailed
+	url = https://github.com/chilik/theos-jailed

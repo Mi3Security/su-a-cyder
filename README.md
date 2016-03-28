@@ -37,4 +37,20 @@
 
      DISCLAIMER: 
      This tool is an education tool for demonstration PoC of iOS Malware, Only!
+     
+     INSTALLATION: 
+     1. Install ideviceinstaller from libimobile utilities (e.g. brew install ideviceinstaller)
+     2. Install ideviceprovision from libimobile utilities (e.g. brew install ideviceprovision)
+     3. git clone the modified fastlane fork from this repository and install it
+     4. git clone the modified theos-jailed for from this reposiotory 
+     5. create an apple home-brewed account and login to it with x-code (preferences, accounts)
+     
+     USAGE:
+     1. Run the ./theos-jailed/bin/nic.pl and select su-a-cyder as a target
+     2. Cd into the directory and modify the tweak as any other Theos tweak.
+     3. Connect targeted device to USB
+     4. Execute ./su-a-cyder.sh <path-to-decrypted-ipa-file-to-use-as-a-traget.ipa>
+     5. Approve login credentails to Apple account
+     6. After installation on device completed, approve app under the Preferences,Device-Managment iOS settings
+     7. PoC is ready, use for demonstration only!
   
