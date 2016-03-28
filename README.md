@@ -45,7 +45,7 @@
      4. git clone the modified theos-jailed for from this reposiotory 
      5. create an apple home-brewed account and login to it with x-code (preferences, accounts)
      
- ##   USAGE:
+##   USAGE:
      1. Run the ./theos-jailed/bin/nic.pl and select su-a-cyder as a target
      2. Cd into the directory and modify the tweak as any other Theos tweak.
      3. Connect targeted device to USB
