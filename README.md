@@ -24,7 +24,7 @@
 
      LICENSE:
      su-A-cyder, Theos (and by extension, Logos) are available under the provisions of the GNU
-     General Public License, version 3 (or later), available here:
+     General Public License, version 3 (or later), available here: 
      http://www.gnu.org/licenses/gpl-3.0.html.
 
      Projects created using Theos and/or Logos are not considered derivative works 
