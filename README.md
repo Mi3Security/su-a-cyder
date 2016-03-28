@@ -27,7 +27,7 @@
      General Public License, version 3 (or later), available here:
      http://www.gnu.org/licenses/gpl-3.0.html.
 
-     Projects created using Theos and/or Logos are not considered derivative works
+     Projects created using Theos and/or Logos are not considered derivative works 
      (from a licensing standpoint, or, for that matter, any other standpoint) and
      are, as such, not required to be licensed under the GNU GPL.
 
