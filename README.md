@@ -52,5 +52,5 @@
      4. Execute ./su-a-cyder.sh <path-to-decrypted-ipa-file-to-use-as-a-traget.ipa>
      5. Approve login credentails to Apple account
      6. After installation on device completed, approve app under the Preferences,Device-Managment iOS settings
-     7. PoC is ready, use for demonstration only!
+     7. PoC is ready, use for demonstration only! 
   
