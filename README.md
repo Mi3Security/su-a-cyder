@@ -41,9 +41,10 @@
 ##   INSTALLATION: 
      1. Install ideviceinstaller from libimobile utilities (e.g. brew install ideviceinstaller)
      2. Install ideviceprovision from libimobile utilities (e.g. brew install ideviceprovision)
-     3. git clone the modified fastlane fork from this repository and install it
-     4. git clone the modified theos-jailed for from this reposiotory 
-     5. create an apple home-brewed account and login to it with x-code (preferences, accounts)
+     3. Grab all from this git:
+                    git clone --recursive https://github.com/Mi3Security/su-a-cyder
+     4. Goto the modified fastlane and install it 
+     5. create an apple home-brewed account and login to it with updated x-code (preferences, accounts)
      
 ##   USAGE:
      1. Run the ./theos-jailed/bin/nic.pl and select su-a-cyder as a target
