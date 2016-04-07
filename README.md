@@ -54,4 +54,10 @@
      5. Approve login credentails to Apple account
      6. After installation on device completed, approve app under the Preferences,Device-Managment iOS settings
      7. PoC is ready, use for demonstration only! 
-  
+
+##   MORE INFO:
+     Su-A-Cyder News and Blog Here: 
+          https://www.mi3security.com/su-a-cyder-ios-malware/
+     
+     Su-A-Cyder PoC videos available on Youtube: 
+          https://www.youtube.com/playlist?list=PLUYZw1cgbRKyWTlXDiYx229xR3S6MSb8H
